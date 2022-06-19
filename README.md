@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mujipanda
 - 👀 I’m interested in unity c#
 - 🌱 I’m currently learning games programming
-- 💞️ I’m looking to collaborate on jam games
+- 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me mujipanda123@gmail.com
 
 <!---
