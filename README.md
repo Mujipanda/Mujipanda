@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mujipanda
-- 👀 I’m interested in unity c#
-- 🌱 I’m currently learning games programming
+- 👀 I’m interested in c# unity and C++ sfml 
+- 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me mujipanda123@gmail.com
 
